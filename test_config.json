@@ -1,0 +1,6 @@
+{
+  "db_path": "data/test_data.csv",
+  "participants_path": "data/test_participants.csv",
+  "table_path": "data/test_table.csv",
+  "token_path": "data/token"
+}
